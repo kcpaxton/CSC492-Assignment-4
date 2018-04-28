@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paxton4.Android", "Paxton4\Paxton4.Android\Paxton4.Android.csproj", "{43E2D494-5258-4065-8A38-96808F54A335}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paxton4", "Paxton4\Paxton4\Paxton4.csproj", "{05FB6501-D9A1-4519-B28F-6192192BA158}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43E2D494-5258-4065-8A38-96808F54A335}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43E2D494-5258-4065-8A38-96808F54A335}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43E2D494-5258-4065-8A38-96808F54A335}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{43E2D494-5258-4065-8A38-96808F54A335}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43E2D494-5258-4065-8A38-96808F54A335}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43E2D494-5258-4065-8A38-96808F54A335}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{05FB6501-D9A1-4519-B28F-6192192BA158}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05FB6501-D9A1-4519-B28F-6192192BA158}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05FB6501-D9A1-4519-B28F-6192192BA158}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05FB6501-D9A1-4519-B28F-6192192BA158}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {959143B1-0E37-4ADB-9645-997D45E92D05}
+	EndGlobalSection
+EndGlobal
